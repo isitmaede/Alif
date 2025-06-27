@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Aleef",
+    "slug": "Aleef",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/pawicon.png",
+    "scheme": "aleef",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/pawicon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.xeyappsss.Aleef"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/pawicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/pawicon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b30e28da-8832-40f8-bdc0-31be8be4b4d5"
+      }
+    }
+  }
+}
