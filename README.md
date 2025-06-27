@@ -81,7 +81,12 @@ Contact
 MaedeDev - gmail : maededeveloper@gmail.com
 
 
-
-
-git add /screenshots/sc1.jpg
-
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc1.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc2.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc3.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc4.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc5.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc6.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc7.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc8.jpg
+https://github.com/isitmaede/Alif/blob/main/screenshots/sc9.jpg
