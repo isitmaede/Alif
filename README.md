@@ -79,3 +79,9 @@ Don't forget to give the project a star! Thanks again!
 Contact
 
 MaedeDev - gmail : maededeveloper@gmail.com
+
+
+
+
+git add assets/screenshots/sc1.jpg
+
