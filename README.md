@@ -83,5 +83,5 @@ MaedeDev - gmail : maededeveloper@gmail.com
 
 
 
-git add assets/screenshots/sc1.jpg
+git add /screenshots/sc1.jpg
 
