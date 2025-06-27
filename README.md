@@ -93,4 +93,3 @@ Here's a collection of images showcasing various screens within the application:
 ![Screenshot 6](screenshots/sc6.jpg)
 ![Screenshot 7](screenshots/sc7.jpg)
 ![Screenshot 8](screenshots/sc8.jpg)
-![Screenshot 9](screenshots/sc9.jpg)
