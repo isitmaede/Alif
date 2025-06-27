@@ -81,12 +81,16 @@ Contact
 MaedeDev - gmail : maededeveloper@gmail.com
 
 
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc1.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc2.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc3.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc4.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc5.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc6.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc7.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc8.jpg
-https://github.com/isitmaede/Alif/blob/main/screenshots/sc9.jpg
+## Application Screenshots
+
+Here's a collection of images showcasing various screens within the application:
+
+![Screenshot 1](screenshots/sc1.jpg)
+![Screenshot 2](screenshots/sc2.jpg)
+![Screenshot 3](screenshots/sc3.jpg)
+![Screenshot 4](screenshots/sc4.jpg)
+![Screenshot 5](screenshots/sc5.jpg)
+![Screenshot 6](screenshots/sc6.jpg)
+![Screenshot 7](screenshots/sc7.jpg)
+![Screenshot 8](screenshots/sc8.jpg)
+![Screenshot 9](screenshots/sc9.jpg)
